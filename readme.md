@@ -18,7 +18,7 @@ Experience the magic of our chat app on both Android and iOS:
 
 | Android | iOS |
 |---------|-----|
-| <video src="./samples/android.mp4" width="300px" /> | <video src="./samples/ios.mp4" width="300px" /> |
+| [sample android](https://github.com/vikas-chhabra/expo-chat/blob/master/samples/android.mp4) | [sample iOS](https://github.com/vikas-chhabra/expo-chat/blob/master/samples/ios.mp4) |
 
 ## Features That Amaze
 
